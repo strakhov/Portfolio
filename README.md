@@ -17,3 +17,5 @@ ___
 The company is engaged in wholesale supplies of *** drugs to the Russian market. Due to imperfections in the existing forecasting tools, the warehouse regularly experiences overstock and out-of-stock situations. In the first case, the company incurs increased costs for maintaining inventory, while in the second case, it loses sales and, therefore, profit. The logistics pipeline (the time from ordering goods from the manufacturer to their delivery to the local warehouse) takes 6-8 months. To reduce these costs and improve forecasting accuracy, a new, more accurate tool is needed. It is necessary to develop a model that forecasts sales for 1, 3, and 12 months.
 
 Project feature: the code must be optimized for use by inexperienced Python users. In other words, the end-user's intervention in the code should be minimal or completely absent.
+
+To maintain confidentiality, the original data is distorted.
