@@ -24,6 +24,7 @@ ___
 4. lung_cancer_os
 
 Using kaggle dataset I created machine learning model which predicts lung cancer probability. Default data set was imbalanced - there were 270 objects with proven disease and only 39 healthy people. With this dataset the model gives excellent metrics but give out illogical conclusions. I assumed that the problem was in the data itself. To solve this problem I created a little survey for healthy people at Google.forms. When I had survey results from 130 people, I added them to the original data. This decision solved problem of imbalanced data, and model trained on new data gave great metrics and logically justified solutions.
+___
 
 5. diabetes_EDA
 
